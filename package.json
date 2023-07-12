@@ -1,5 +1,5 @@
 {
-  "name": "Rohaan Ahmed's portfolio page",
+  "name": "Rohaan Ahmed's professional portfolio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio built in jquery and popper.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizock/portfolio"
+    "url": "git+https://github.com/crushr3sist/portfolio"
   },
   "keywords": [],
   "author": "Rohaan Ahmed",
@@ -29,3 +29,4 @@
     "vanilla-tilt": "^1.8.0"
   }
 }
+//
